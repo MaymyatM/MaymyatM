@@ -57,11 +57,11 @@ Implementation Mobile Application for agent’s purchase journey of Online and O
 
 
 🧠 Project Portfolio
-1. Data Center Project
-Role: Project Coordinator
-Budget: ~$250,000
-Methodology: Waterfall
-Coordinated Myanmar-side operations between the Thailand PMO, engineering teams, vendors, and customers. Successfully bridged cross-border communication and logistics.
+1. Data Center Project  
+Role: Project Coordinator  
+Budget: ~$250,000  
+Methodology: Waterfall  
+Coordinated Myanmar-side operations between the Thailand PMO, engineering teams, vendors, and customers. Successfully bridged cross-border communication and logistics.  
 🏆 Achievement: Awarded an additional year of maintenance due to effective execution.
 
 2. Hospital Information Management System
