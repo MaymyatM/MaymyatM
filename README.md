@@ -1,4 +1,4 @@
-## PMP & PSM I certified project manager | 6+ years in coordinating and managing IT Projects and with other customer service experience
+## PMP & PSM I certified project manager | 6+ years in coordinating and managing IT Projects and 2 years of customer service experience
 
 
 - 👋 Hi, this is May.
